@@ -69,3 +69,6 @@ As an open source product, we encourage and support the active development of ou
 ## Want more information?
 
 Visit the [TinyMCE website](https://tiny.cloud/) and check out the [TinyMCE documentation](https://www.tiny.cloud/docs/).
+
+
+Send to Hien
